@@ -1,6 +1,8 @@
 **sml+ (sml_plus)**  
 *A minimal platformer*  
 
+![Gameplay Screenshot](screenshot.png)
+
 Simple 2D platformer where player guide a character jumping between moving platforms. Core features:
 
 - 🌟 **Procedural particles**: Dynamic starfield background
