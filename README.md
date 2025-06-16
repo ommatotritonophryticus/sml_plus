@@ -14,6 +14,8 @@ Simple 2D platformer where player guide a character jumping between moving platf
 - Adaptive movement mechanics
 - Efficient object recycling
 
+[Experience sml+ Now](https://ommatotritonophryticus.github.io/sml_plus/)
+
 **License**: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 **Soundtrack**: Ledo de Ananaso  
 
